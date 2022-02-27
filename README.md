@@ -1,0 +1,1 @@
+My solution for the Kotlin Project Pawns-Only Chess from HyperSkill Kotlin Base Track: https://hyperskill.org/projects/182
